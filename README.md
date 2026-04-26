@@ -1,6 +1,6 @@
 ## Learning NodeJs
 
-Creating Notes traking Backend api no database is used data is store in ram memory 
+Creating Notes taking application Backend api no database is used data is store in ram memory 
 
 ### Mathod Used 
 
