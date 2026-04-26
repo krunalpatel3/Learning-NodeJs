@@ -2,7 +2,7 @@
 
 Creating Notes taking application Backend api no database is used data is store in ram memory 
 
-### Mathod Used 
+### Methods Used 
 
 1) Post /AddNote api 
 
