@@ -2,6 +2,10 @@
 
 Creating Notes taking application Backend api no database is used data is store in ram memory 
 
+Learning resource link very clearly explain and easy to understand by watching below video course.
+
+https://www.youtube.com/watch?v=0IciwnJ6PJI
+
 ### Methods Used 
 
 1) Post /AddNote api 
